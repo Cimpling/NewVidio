@@ -434,7 +434,8 @@ def main():
     else:
         print(Fore.RED+"Gak ada Menunya Bangke!!!")
 
-
+userAgent_vidio = "tv-android/1.92.1 (437)"
+xApiInfo_vidio = "tv-android/13/1.92.1-437"
 print('       _     _ _       \n      (_)   | (_)      \n__   ___  __| |_  ___  \n\ \ / / |/ _` | |/ _ \ \n \ V /| | (_| | | (_) |\n  \_/ |_|\__,_|_|\___/ ')
 userAgent_vidio = "tv-android/1.92.1 (437)"
 xApiInfo_vidio = "tv-android/13/1.92.1-437"
